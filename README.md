@@ -9,6 +9,7 @@
 - 🥇 Certification : [CKA](https://www.youracclaim.com/badges/53515af8-bc86-48a4-b84f-3606950163b1/linked_in_profile) (Score - 100%)
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/k4kratik/)
 - ⚡ Fun fact : I hate repetitive tasks but I kinda love them too at the same time because that gives me an opportunity to Automate them 😉
+- Check my URL Shortener here : [Shorty](http://virtualk.xyz)
 
 <br>
 <br>
