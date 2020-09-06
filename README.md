@@ -10,6 +10,7 @@
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/k4kratik/)
 - ⚡ Fun fact : I hate repetitive tasks but I kinda love them too at the same time because that gives me an opportunity to Automate them 😉
 - Check my URL Shortener here : [Shorty](http://virtualk.xyz)
+- Made A CLI utility which grabs latest COVID-19 Data of India : [Check it out here!](https://github.com/k4kratik/COVID-19-STATS-FINDER)
 
 <br>
 <br>
