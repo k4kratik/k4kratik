@@ -12,7 +12,7 @@
 ---
 - Check my URL Shortener here : [Shorty](http://virtualk.xyz)
 - Made A CLI utility which grabs latest COVID-19 Data of India : [Check it out here!](https://github.com/k4kratik/COVID-19-STATS-FINDER)
-
+---
 <br>
 <br>
 
