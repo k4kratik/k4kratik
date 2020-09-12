@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on : Vue.js, nodejs, Firebase 
+- 🔭 I’m currently working on : MYSELF :) 
 - 🌱 I’m currently learning : Javascript 
 - 👯 I’m looking to collaborate on : Cloud Native Tech Blogs, Scripting
 - 💬 Ask me about : Cloud Native Solutions, Containers & Their Orchestration(Docker and K8s), Python, Linux, Bash :)
