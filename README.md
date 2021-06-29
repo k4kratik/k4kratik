@@ -99,9 +99,12 @@
 <br />
 <br />
 <br />
-<br />
-<hr>
+<br /> 
 
+---
+- Check my URL Shortener here : [Shorty](http://kratikwho.tk)
+- Made A CLI utility which grabs latest COVID-19 Data of India : [Check it out here!](https://github.com/k4kratik/COVID-19-STATS-FINDER)
+---
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kratik"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
