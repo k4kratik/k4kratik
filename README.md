@@ -9,7 +9,7 @@
             src="https://img.shields.io/twitter/follow/k4kratik?logo=twitter&style=for-the-badge" alt="k4kratik" /></a>
 </p>
 
-- 🔭 I’m currently working on **Python, AWS**
+- 🔭 I’m currently working on **Python, AWS, Kubernetes, Terraform**
 
 - 🌱 I’m currently learning **Flask, Python, Blogging**
 
