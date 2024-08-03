@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **GitOps, DevSecOps, FinOps, SRE**
 
-- 📝 I regularly write articles on [kratik.cloud](https://kratik.hashnode.dev/)
+- 📝 I regularly write articles on [blogs.kratik.dev](https://kratik.hashnode.dev/)
 
 - 💬 Ask me about **Cloud-Native Solutions, Containerization**
 
