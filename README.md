@@ -102,7 +102,7 @@
 <br /> 
 
 ---
-- Check my URL Shortener here : [Shorty](http://kratikwho.tk)
+- Check my URL Shortener here : [Shorty](https://shorty.kratik.dev/)
 - Made A CLI utility which grabs latest COVID-19 Data of India : [Check it out here!](https://github.com/k4kratik/COVID-19-STATS-FINDER)
 ---
 <h3 align="left">Support:</h3>
