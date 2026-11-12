@@ -51,6 +51,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40" />
 </p>
 
+<h3 align="left">GitHub insights:</h3>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/0-profile-details.svg" /><img src="profile-summary-card-output/github/0-profile-details.svg" alt="0-profile-details" width="100%" /></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg" /><img src="profile-summary-card-output/github/3-stats.svg" alt="3-stats" width="49%" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/4-productive-time.svg" /><img src="profile-summary-card-output/github/4-productive-time.svg" alt="4-productive-time" width="49%" /></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/1-repos-per-language.svg" /><img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="1-repos-per-language" width="49%" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg" /><img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="2-most-commit-language" width="49%" /></picture></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k4kratik&" alt="k4kratik streak" /></p>
 
 ---
